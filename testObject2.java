@@ -20,8 +20,12 @@ public class testObject2 {
 		testObject2 test02 = new testObject2();
 		testObject2 test03 = new testObject2();
 
-		
-			test02.runOtherClass(test01);
+		test02.runOtherClass(test01);
+		test02.runOtherClass(test01);
+		test02.runOtherClass(test01);
+		test02.runOtherClass(test01);
+		test02.runOtherClass(test01);
+		test02.runOtherClass(test01);
 
 //		System.out.println(test01.getNumber());
 	}
