@@ -6,6 +6,8 @@ public class testObject2 {
 
 	
 	public void runOtherClass(testObject object) {
+//object.add();
+
 		object.add();
 		object.number = 1000;
 
