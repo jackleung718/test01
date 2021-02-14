@@ -11,6 +11,10 @@ public class testObject {
 		number = number + 1;
 	}
 	
+public void add2() {
+		number = number + 1;
+	}
+
 	public  int getNumber() {
 		return number;
 	}
