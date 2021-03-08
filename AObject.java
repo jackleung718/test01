@@ -52,7 +52,7 @@ System.out.println(myJSON.toString());
 SmartJSON temp1 = new SmartJSON();
 String t1 = "11";
 String t2 = "22";
-
+123
 temp1.smartPut(t1, new Object[] {t2});
 System.out.println(temp1.toString());
 
